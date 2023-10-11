@@ -1,5 +1,7 @@
 # Vue 3 + TypeScript + jsplumb
 
+<img src="./images/demo.png"></img>
+
 ## 库
 - [jsplumb](https://www.npmjs.com/package/jsplumb)
 - [panzoom](https://www.npmjs.com/package/panzoom)
