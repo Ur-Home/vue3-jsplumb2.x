@@ -1,0 +1,92 @@
+{
+  "nodes": [
+    {
+      "name": "users",
+      "type": "Origin",
+      "fields": [
+        {
+          "name": "age",
+          "code":  "int"
+        },
+        {
+          "name": "name",
+          "code":  "int"
+        },
+        {
+          "name": "class",
+          "code":  "int"
+        }
+      ],
+      "top": 200,
+      "left": 300
+    },
+    {
+      "name": "orders",
+      "type": "Origin",
+      "fields": [
+        {
+          "name": "age",
+          "code":  "int"
+        },
+        {
+          "name": "name",
+          "code":  "int"
+        },
+        {
+          "name": "grade",
+          "code":  "int"
+        }
+      ],
+      "top": 350,
+      "left": 200
+    },
+    {
+      "name": "products",
+      "type": "Middle",
+      "fields": [
+        {
+          "name": "age",
+          "code":  "int"
+        },
+        {
+          "name": "name",
+          "code":  "int"
+        },
+        {
+          "name": "class",
+          "code":  "int"
+        },
+        {
+          "name": "grade",
+          "code":  "int"
+        }
+      ],
+      "top": 150,
+      "left": 531
+    },
+    {
+      "name": "RS",
+      "type": "RS",
+      "fields": [
+        {
+          "name": "age",
+          "code":  "int"
+        },
+        {
+          "name": "name",
+          "code":  "int"
+        },
+        {
+          "name": "class",
+          "code":  "int"
+        },
+        {
+          "name": "grade",
+          "code":  "int"
+        }
+      ],
+      "top": 400,
+      "left": 551
+    }
+  ]
+}
